@@ -36,8 +36,7 @@
 
 ## 📫 Como me encontrar
 
-- ✉️ [SeuEmail@email.com](#)
-- 💼 [LinkedIn](#) *(opcional)*
+- ✉️ [guiprado201913@gmail.com](#)
 - 🌐 [Portfólio (se tiver)](#)
 
 ---
